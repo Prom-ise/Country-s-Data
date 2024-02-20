@@ -12,7 +12,8 @@
 
 <body class="body">
     <h1 class="text-center we">Welcome to My Database of all Countries</h1>
-    <div class="category1">
+    <div class="row">
+    <div class="category1 col-lg-6 col-md-6 col-12 mt-5">
         <div class="bg-danger search ">
             <div class=" inp">
 
@@ -31,11 +32,16 @@
         <p class="text-light" id="noResultsMessage" style="display: none;">No results found</p>
     </div>
 
-    <div class="card-container">
-        <div class="card" id="card">
-            <!-- Card content will be dynamically updated here -->
+    <div class="col-lg-6 col-md-6 col-12 container mt-5" style="display: none;" id="count">
+        <div id="countryCard" style="display: block;">
+                <h5 id="resultItems"></h5>
+                <p id="countryCategory"></p>
+                <p id="countryInfo"></p>
+        </div>
         </div>
     </div>
+
+</div>
     <script src="script.js"></script>
 </body>
 

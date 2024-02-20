@@ -2,9 +2,6 @@
     background-color: black;
     padding: 30px;
 }
-.category1{
-    margin-top: 15vh;
-}
 .we{
     color: red;
 }
@@ -55,20 +52,17 @@ input:focus {
 
 .country-list div:hover {
     color: red;
-    cursor: pointer;
-}
-.country {
-    cursor: pointer;
-    margin-bottom: 5px;
 }
 
-.card {
-    background-color: #9e2b2b;
-    padding: 20px;
-    border-radius: 5px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+#count{
+    background-color: white;
+    border: 2px double red;
 }
-
+@media (max-width: 759px) {
+    .scrollable-container{
+        width: 400px;
+    }
+}
 /* .ico{
     background-color: black;
     border: none;
