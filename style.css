@@ -55,8 +55,10 @@ input:focus {
 }
 
 #count{
-    background-color: white;
+    background-color: black;
     border: 2px double red;
+    overflow-y: auto;
+    max-height: 470px;
 }
 @media (max-width: 759px) {
     .scrollable-container{
