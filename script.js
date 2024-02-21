@@ -13,7 +13,7 @@ console.log(nigeria);
 const data = [
   {
     name: "Afghanistan",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fflagdom.com%2Finternational-flags%2Fafghanistan-flag&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAJ`,
+    img: `https://cdn.britannica.com/40/5340-004-B25ED5CF/Flag-Afghanistan.jpg`,
     Category: "Kabul",
     info: `Situated in South Asia, Afghanistan is known for its rugged mountain landscapes, ancient cultural heritage, and historical significance as a crossroads of civilizations. Despite facing challenges such as conflict and political instability, Afghanistan's rich history and natural beauty continue to attract visitors interested in exploring its archaeological sites, bazaars, and hospitality of its people.`,
     popu: `Over 38 million`,
@@ -48,755 +48,755 @@ const data = [
   },
   {
     name: "Antigua and Barbuda",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/04/5104-050-9E557169/Flag-Antigua-and-Barbuda.jpg`,
     Category: "Saint John's",
     info: `Antigua and Barbuda: Comprising two islands in the Caribbean, Antigua and Barbuda are renowned for their pristine beaches, clear turquoise waters, and rich maritime history. Whether relaxing on the sandy shores of Dickenson Bay or exploring the historic sites of English Harbour, visitors to Antigua and Barbuda can immerse themselves in the laid-back island lifestyle.`,
     popu: `Over 38 million`
   },
   {
     name: "Argentina",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/69/5869-004-7D75CD05/Flag-Argentina.jpg`,
     Category: "Buenos Aires",
     info: `Argentina: From the bustling streets of Buenos Aires to the majestic peaks of the Andes, Argentina offers travelers a diverse range of attractions and experiences. Whether tango dancing in the capital, wine tasting in Mendoza, or marveling at the natural wonders of Patagonia and Iguazu Falls, Argentina captivates visitors with its vibrant culture and stunning landscapes.`,
     popu: `Over 38 million`
   },
   {
     name: "Armenia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/11/4711-004-1504C169/Flag-Armenia.jpg`,
     Category: "Yerevan",
     info: `Armenia: Nestled in the Caucasus region, Armenia is known for its ancient monasteries, picturesque landscapes, and rich cultural heritage. From the historic streets of Yerevan to the stunning vistas of Lake Sevan and the mountainous terrain of the Armenian Highlands, Armenia offers travelers a unique blend of history, nature, and hospitality.`,
     popu: `Over 38 million`
   },
   {
     name: "Australia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg`,
     Category: "Canberra",
     info: `Australia: Known for its stunning natural landscapes, vibrant cities, and unique wildlife, Australia offers visitors diverse experiences ranging from the iconic Sydney Opera House to the breathtaking Great Barrier Reef.`,
     popu: `Over 38 million`
   },
   {
     name: "Austria",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Flag_of_Austria.svg/2560px-Flag_of_Austria.svg.png`,
     Category: "Vienna",
     info: `Austria: Famed for its imperial history, classical music, and alpine scenery, Austria attracts travelers with attractions such as Vienna's palaces, Salzburg's Mozart heritage, and the scenic lakes of the Austrian Alps.`,
     popu: `Over 38 million`
   },
   {
     name: "Azerbaijan",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/1323578098/vector/flags-of-the-world.jpg?s=612x612&w=0&k=20&c=k6oaNtJch05UlaSNlLj0Vw2kzGOQLwXe82CEQLb0DZA=`,
     Category: "Baku",
     info: `Azerbaijan, located at the crossroads of Eastern Europe and Western Asia, is known for its rich cultural heritage, historic landmarks, and stunning natural beauty. The capital city, Baku, blends modern architecture with ancient landmarks such as the UNESCO-listed Old City, home to the iconic Maiden Tower and the Palace of the Shirvanshahs. Azerbaijan's diverse landscapes range from the Caspian Sea coastline to the rugged peaks of the Caucasus Mountains, offering opportunities for outdoor adventures such as hiking, skiing, and exploring ancient mud volcanoes. Azerbaijan's cultural heritage is reflected in its traditional music, dance, and cuisine, influenced by Persian, Turkish, and Russian traditions. With a growing tourism industry and a warm hospitality, Azerbaijan welcomes visitors to discover its history, culture, and natural wonders.`,
     popu: `Over 38 million`
   },
   {
     name: "Bahamas",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/485833712/photo/bahamas-flag.jpg?s=612x612&w=0&k=20&c=ZvTJT3tnUH12CkrewW0kJy8JNBmHxnIhqls3yS26Isk=`,
     Category: "Nassau",
     info: `Bahamas: The Bahamas is an archipelago of islands located in the Caribbean Sea known for its stunning beaches, crystal-clear waters, and vibrant marine life. Popular destinations include Nassau, the capital city, and Paradise Island, home to the Atlantis resort.`,
     popu: `Over 38 million`
   },
   {
     name: "Bahrain",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/1334735879/vector/kingdom-of-bahrain-flag.jpg?s=612x612&w=0&k=20&c=YEAK8HDnty1c6EG0SKw-yV9R9xTXBWK2RZ8oU3kUq2A=`,
     Category: "Manama",
     info: `Bahrain: Bahrain is an island nation in the Persian Gulf known for its modern skyline, historic sites, and rich cultural heritage. Attractions include the Bahrain Fort, Al Fateh Grand Mosque, and the Bahrain National Museum.`,
     popu: `Over 38 million`
   },
   {
     name: "Bangladesh",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/1409466305/vector/bangladesh-flag-design-waving-bangladeshi-flag-made-of-satin-or-silk-fabric-vector.jpg?s=612x612&w=0&k=20&c=T7sgnxODQv57hQpBzC-gPFJU1hPvjKPPOiDNBnP9C8Q=`,
     Category: "Dhaka",
     info: `Bangladesh: Bangladesh is a South Asian country known for its lush green landscapes, vibrant culture, and bustling cities. Highlights include the Sundarbans mangrove forest, the ancient ruins of Paharpur, and the bustling capital city of Dhaka.`,
     popu: `Over 38 million`
   },
   {
     name: "Barbados",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/1293471011/photo/flag-of-barbados-silk.jpg?s=612x612&w=0&k=20&c=kYlaX4WQWkrUVkqFGJ79osXEtmJgxWkC2sKIt8lvhy8=`,
     Category: "Bridgetown",
     info: `Barbados: Barbados is an island country in the Caribbean known for its sandy beaches, turquoise waters, and colonial architecture. Bridgetown, the capital city, is a UNESCO World Heritage Site, and the island is famous for its rum production and festivals.`,
   },
   {
     name: "Belarus",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/01/6401-004-FAEACB4E/Flag-Belarus.jpg`,
     Category: "Minsk",
     info: `Belarus: Belarus is a landlocked country in Eastern Europe known for its Soviet-era architecture, dense forests, and diverse wildlife. Highlights include the capital city of Minsk, the historic town of Mir, and the primeval Białowieża Forest.`,
     popu: `Over 38 million`
   },
   {
     name: "Belgium",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/08/6408-004-405E272F/Flag-Belgium.jpg`,
     Category: "Brussels",
     info: `Belgium: With its medieval architecture, chocolate, and beer culture, Belgium entices visitors with attractions such as the Grand Place in Brussels, medieval towns like Bruges, and delicious Belgian waffles.Belgium is a Western European country known for its medieval towns, chocolate, and beer. Attractions include the Grand Place in Brussels, the medieval city of Bruges, and the historic battlefields of Flanders.`,
     popu: `Over 38 million`
   },
   {
     name: "Belize",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/1388452604/vector/national-flag-of-belize.jpg?s=612x612&w=0&k=20&c=P6g4XZav_rDlapCfiqpSH6CnK_TsbWUtL6KGqaXaZ58=`,
     Category: "Belmopan",
     info: `Belize: Belize is a Central American country known for its Caribbean coastline, lush rainforests, and ancient Mayan ruins. Highlights include the Belize Barrier Reef, the Blue Hole, and the ancient city of Caracol.`,
     popu: `Over 38 million`
   },
   {
     name: "Benin",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Flag_of_Benin.svg/2560px-Flag_of_Benin.svg.png`,
     Category: "Porto-Novo",
     info: `Benin: Benin is a West African country known for its rich history, traditional culture, and diverse landscapes. Attractions include the royal palaces of Abomey, the Pendjari National Park, and the vibrant markets of Cotonou.`,
     popu: `Over 38 million`
   },
   {
     name: "Bhutan",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Flag_of_Bhutan.svg/2560px-Flag_of_Bhutan.svg.png`,
     Category: "Thimphu",
     info: `Bhutan: Known for its stunning Himalayan landscapes, Buddhist monasteries, and Gross National Happiness philosophy, Bhutan offers travelers a unique cultural and natural experience.`,
     popu: `Over 38 million`
   },
   {
     name: "Bolivia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/54/6754-004-AE3C4294/Flag-Bolivia.jpg`,
     Category: "Sucre",
     info: `Bolivia: Bolivia is a landlocked country in South America known for its Andean landscapes, colonial cities, and indigenous culture. Attractions include the Salar de Uyuni salt flats, Lake Titicaca, and the historic city of Sucre.`,
     popu: `Over 38 million`
   },
   {
     name: "Bosnia and Herzegovina",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/1156898145/vector/vector-flag-of-bosnia-and-herzegovina-proportion-1-2-bosnia-herzegovinan-national-flag.jpg?s=612x612&w=0&k=20&c=46LiA_3BOCNke9j7IsyX1R6E2P7ICiIkENrtBqnW-9E=`,
     Category: "Sarajevo",
     info: `Bosnia and Herzegovina: Bosnia and Herzegovina is a Balkan country known for its historic cities, stunning scenery, and cultural diversity. Highlights include the old town of Mostar, the Stari Most bridge, and the medieval city of Sarajevo.`,
     popu: `Over 38 million`
   },
   {
     name: "Botswana",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://t3.ftcdn.net/jpg/00/47/41/78/360_F_47417881_PQGWmsx36eYTnmQPZj5UlNp0Xb3E2AaH.jpg`,
     Category: "Gaborone",
     info: `Botswana: Famed for its abundant wildlife, including the Okavango Delta and Chobe National Park, Botswana is a premier safari destination in Africa.`,
     popu: `Over 38 million`
   },
   {
     name: "Brazil",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://www.flagcolorcodes.com/filter?f=brazil&e=waves`,
     Category: "Brasília",
     info: `Brazil: With its lively culture, beautiful beaches, and Amazon rainforest, Brazil attracts travelers seeking adventure, music, and vibrant street life, particularly during events like Carnival in Rio de Janeiro.`,
     popu: `Over 38 million`
   },
   {
     name: "Brunei",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4vlA5IBGEvAsjPOcsb2VfCAdboYqd2UxEGP3vsnaQJw&s`,
     Category: "Bandar Seri Begawan",
     info: `Brunei: Brunei is a small Southeast Asian country known for its rich oil reserves, Islamic culture, and royal palaces. Highlights include the Omar Ali Saifuddien Mosque, the water village of Kampong Ayer, and the rainforests of Ulu Temburong National Park.`,
     popu: `Over 38 million`
   },
   {
     name: "Bulgaria",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/04/6204-004-DC5CFE4F/Flag-Bulgaria.jpg`,
     Category: "Sofia",
     info: `Bulgaria: Bulgaria is a Balkan country known for its Black Sea coastline, mountainous landscapes, and ancient ruins. Attractions include the historic city of Sofia, the Rila Monastery, and the seaside resorts of Varna and Burgas.`,
     popu: `Over 38 million`
   },
   {
     name: "Burkina Faso",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/1419221812/vector/flag-of-the-burkina-faso-vector-illustration.jpg?s=612x612&w=0&k=20&c=hgdllaM6u_Aq5VXNyXDooGCWgjVRleGwn-qDYFYvTVI= `,
     Category: "Ouagadougou",
     info: `Burkina Faso: Burkina Faso is a landlocked country in West Africa known for its traditional culture, lively markets, and Sahel landscapes. Highlights include the Ruins of Loropéni, the W National Park, and the Bobo-Dioulasso Grand Mosque.`,
     popu: `Over 38 million`
   },
   {
     name: "Burundi",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` https://cdn.britannica.com/77/7177-050-246CAF00/Flag-Burundi.jpg`,
     Category: "Gitega",
     info: `Burundi: Burundi is a small East African country known for its scenic landscapes, wildlife reserves, and traditional drumming rituals. Attractions include Lake Tanganyika, Kibira National Park, and the capital city of Bujumbura.`,
     popu: `Over 38 million`
   },
   {
     name: "Cabo Verde (Cape Verde)",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/44/5044-050-2530FC16/Flag-Cabo-Verde.jpg`,
     Category: "Praia",
     info: `Cabo Verde (Cape Verde): Cabo Verde is an island nation off the coast of West Africa known for its volcanic landscapes, pristine beaches, and Creole culture. Attractions include the historic town of Cidade Velha, the volcanic peak of Pico do Fogo, and the beaches of Sal and Boa Vista.`,
     popu: `Over 38 million`
   },
   {
     name: "Cambodia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/1265164088/vector/cambodia-flag-vector-graphic-rectangle-cambodian-flag-illustration-cambodia-country-flag-is.jpg?s=612x612&w=0&k=20&c=J4FOMXvwaEG-brJeK1-T3qTNj4gBSJp7rGnPbL10lhA=`,
     Category: "Phnom Penh",
     info: `Cambodia: Home to the iconic Angkor Wat temple complex, Cambodia entices visitors with its rich Khmer history, vibrant markets, and picturesque countryside.It is a Southeast Asian country known for its ancient temples, lush jungles, and tragic history. Highlights include the Angkor Wat complex, the Killing Fields of Choeung Ek, and the riverside capital city of Phnom Penh.`,
     popu: `Over 38 million`
   },
   {
     name: "Cameroon",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6oAb_LZR1vO1UBQOQBi5qMyMdd8gETwKrJT9VCU4k2g&s `,
     Category: "Yaoundé",
     info: `Cameroon: Cameroon is a Central African country known for its diverse landscapes, including rainforests, savannas, and mountains. Attractions include Waza National Park, Mount Cameroon, and the vibrant markets of Yaoundé and Douala.`,
     popu: `Over 38 million`
   },
   {
     name: "Canada",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://www.shutterstock.com/image-vector/flag-canada-600nw-94948876.jpg`,
     Category: "Ottawa",
     info: `Canada: Renowned for its breathtaking scenery, outdoor adventures, and multicultural cities, Canada offers visitors opportunities to explore national parks, ski resorts, and cultural festivals across its vast landscape.`,
     popu: `Over 38 million`
   },
   {
     name: "Central African Republic",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/80/7180-004-8AFA2B44/Flag-Central-African-Republic.jpg`,
     Category: "Bangui",
     info: `Central African Republic: The Central African Republic is a landlocked country in Central Africa known for its wildlife reserves, including Dzanga-Sangha National Park and Manovo-Gounda St. Floris National Park. The capital city of Bangui is known for its vibrant markets and colonial architecture.`,
     popu: `Over 38 million`
   },
   {
     name: "Chad",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Flag_of_Chad.svg/2000px-Flag_of_Chad.svg.png`,
     Category: "N'Djamena",
     info: `Chad: Chad is a landlocked country in North-Central Africa known for its diverse landscapes, including the Sahara Desert and Lake Chad. Attractions include Zakouma National Park, the Ennedi Plateau, and the capital city of N'Djamena.`,
     popu: `Over 38 million`
   },
   {
     name: "Chile",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/85/7485-004-00B07230/Flag-Chile.jpg`,
     Category: "Santiago",
     info: `Chile: Stretching along the western coast of South America, Chile offers diverse landscapes ranging from the Atacama Desert to the Andes Mountains and Patagonian fjords, as well as cultural attractions in Santiago and Valparaiso.`,
     popu: `Over 38 million`
   },
   {
     name: "China",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/2560px-Flag_of_the_People%27s_Republic_of_China.svg.png`,
     Category: "Beijing",
     info: `China: As one of the world's oldest civilizations, China boasts a wealth of cultural treasures, including the Great Wall, Forbidden City, and Terracotta Army, along with modern metropolises like Shanghai and Beijing.`,
     popu: `Over 38 million`
   },
   {
     name: "Colombia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/967321202/vector/vector-flag-of-colombia-proportion-2-3-colombian-national-tricolor-flag-tricolor.jpg?s=612x612&w=0&k=20&c=qEJP1i8Igt2Wdkfnhes229dAtAf43AQiH-r2krsq3Xk=`,
     Category: "Bogotá",
     info: `Colombia: With its diverse landscapes, colonial cities, and Caribbean beaches, Colombia offers travelers opportunities for adventure, culture, and relaxation.`,
     popu: `Over 38 million`
   },
   {
     name: "Comoros",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://cdn.britannica.com/40/7740-050-C43A463A/Flag-Comoros.jpg`,
     Category: "Moroni",
     info: `Comoros: Comoros is a volcanic archipelago off the coast of East Africa known for its pristine beaches, coral reefs, and lush rainforests. Attractions include the beaches of Grande Comore, the volcanic crater of Mount Karthala, and the historic city of Moroni.`,
     popu: `Over 38 million`
   },
   {
     name: "Congo (Congo-Brazzaville)",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/937875358/vector/democratic-republic-of-congo-flag.jpg?s=612x612&w=0&k=20&c=pv3RcrlAA0THpZpwbH0vPicTdU_BG8390Izs3xTFw_w=`,
     Category: "Brazzaville",
     info: `The Democratic Republic of the Congo is a Central African country known for its vast rainforests, diverse wildlife, and Congo River. Attractions include Virunga National Park, Garamba National Park, and the vibrant city of Kinshasa.`,
     popu: `Over 38 million`
   },
   {
     name: "Cote dIvoire",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg/2560px-Flag_of_C%C3%B4te_d%27Ivoire.svg.png`,
     Category: "Yamoussoukro",
     info: `Côte d'Ivoire (Ivory Coast): Côte d'Ivoire is a West African country known for its vibrant culture, colonial architecture, and diverse landscapes. Highlights include the Basilica of Our Lady of Peace, Comoe National Park, and the beaches of Grand-Bassam.`,
     popu: `Over 38 million`
   },
   {
     name: "Costa Rica",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/652473764/photo/flag-of-costa-rica.jpg?s=612x612&w=0&k=20&c=LakPGBXffd4xAIhQwkU5ZCyUHwbSV8PeUCgavyn9LnM=`,
     Category: "San José",
     info: `Costa Rica: Known for its eco-tourism initiatives, lush rainforests, and biodiversity, Costa Rica attracts visitors with its wildlife reserves, volcanoes, and pristine beaches.`,
     popu: `Over 38 million`
   },
   {
     name: "Croatia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Flag_of_Croatia.svg/2560px-Flag_of_Croatia.svg.png`,
     Category: "Zagreb",
     info: `Croatia: Renowned for its stunning Adriatic coastline, historic cities, and picturesque islands, Croatia captivates visitors with attractions such as Dubrovnik's old town, Plitvice Lakes National Park, and the ancient city of Split.`,
     popu: `Over 38 million`
   },
   {
     name: "Cuba",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: `https://media.istockphoto.com/id/516927998/photo/close-up-of-cubas-flag.jpg?s=612x612&w=0&k=20&c=R9wxXjAfDHE2O7T1BScdCa6wLoAQG_ZGN1KApnM9WA4=`,
     Category: "Havana",
     info: `Cuba: Cuba is a Caribbean island nation known for its vibrant culture, colonial architecture, and pristine beaches. Highlights include Havana's historic Old Town, the tobacco fields of Viñales, and the beach resorts of Varadero.`,
     popu: `Over 38 million`
   },
   {
     name: "Cyprus",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Nicosia",
     info: `Cyprus: Cyprus is an island country in the Eastern Mediterranean known for its ancient ruins, sandy beaches, and lively resorts. Attractions include the archaeological site of Kourion, the Troodos Mountains, and the divided capital city of Nicosia.`,
     popu: `Over 38 million`
   },
   {
     name: "Czechia (Czech Republic)",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Prague",
     info: `Czech Republic: Famed for its medieval castles, charming towns, and historic architecture, the Czech Republic offers travelers a glimpse into Central European culture and heritage.`,
     popu: `Over 38 million`
   },
   {
     name: "Denmark",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Copenhagen",
     info: `Denmark: Known for its fairy-tale castles, cycling culture, and hygge lifestyle, Denmark offers travelers opportunities to explore Copenhagen's colorful Nyhavn, historic landmarks like Kronborg Castle, and scenic countryside.`,
     popu: `Over 38 million`
   },
   {
     name: "Djibouti",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Djibouti City",
     info: `Djibouti: Djibouti is a small East African country known for its strategic location, diverse landscapes, and rich cultural heritage. Attractions include Lake Assal, the Ardoukoba volcano, and the bustling capital city of Djibouti City.`,
     popu: `Over 38 million`
   },
   {
     name: "Dominica",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Roseau",
     info: `Dominica: Dominica is a Caribbean island nation known for its lush rainforests, volcanic landscapes, and pristine rivers. Attractions include Morne Trois Pitons National Park, Trafalgar Falls, and the Boiling Lake.`,
     popu: `Over 38 million`
   },
   {
     name: "Dominican Republic",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Santo Domingo",
     info: `Dominican Republic: The Dominican Republic is a Caribbean nation known for its sandy beaches, vibrant culture, and historic landmarks. Highlights include the historic district of Santo Domingo, the beaches of Punta Cana, and the mountainous interior.`,
     popu: `Over 38 million`
   },
   {
     name: "Ecuador",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Quito",
     info: `Ecuador: Home to the Galapagos Islands and the Amazon Rainforest, Ecuador offers travelers opportunities for wildlife viewing, adventure sports, and exploring indigenous cultures.`,
     popu: `Over 38 million`
   },
   {
     name: "Egypt",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Cairo",
     info: `Egypt: Home to ancient wonders such as the Pyramids of Giza and the Sphinx, Egypt entices travelers with its rich history, archaeological sites, and Nile River cruises.`,
     popu: `Over 38 million`
   },
   {
     name: "El Salvador",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "San Salvador",
     info: `El Salvador, located in Central America, is known for its Pacific Ocean coastline, volcanic landscapes, and rich culture. Despite its small size, the country boasts diverse attractions such as the Ruta de las Flores, a scenic route through picturesque towns and coffee plantations; the colonial city of Suchitoto with its cobblestone streets and vibrant arts scene; and the Joya de Cerén archaeological site, a UNESCO World Heritage site often called the "Pompeii of the Americas" for its remarkably preserved ancient ruins. El Salvador also offers opportunities for surfing along its coastline and exploring its natural reserves and national parks, such as El Imposible National Park and Cerro Verde National Park.`,
     popu: `Over 38 million`
   },
   {
     name: "Equatorial Guinea",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Malabo",
     info: `Equatorial Guinea, located on the west coast of Central Africa, is known for its diverse ecosystems, including rainforests, mangroves, and coastal beaches. The country comprises the mainland region, known as Rio Muni, and several islands, including Bioko Island, home to the capital city of Malabo. Highlights of Equatorial Guinea include the lush rainforests of Monte Alén National Park, the volcanic landscapes of Bioko Island, and the colonial architecture of Malabo's historic district. The country also offers opportunities for wildlife viewing, with species such as gorillas, chimpanzees, and marine turtles found in its protected areas.`,
     popu: `Over 38 million`
   },
   {
     name: "Eritrea",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Asmara",
     info: `Eritrea, located in the Horn of Africa, is known for its ancient history, diverse culture, and striking landscapes. The country's capital city, Asmara, is renowned for its well-preserved Italian colonial architecture, vibrant markets, and bustling cafes. Eritrea's coastline along the Red Sea offers opportunities for diving and snorkeling, with coral reefs and marine life thriving in its waters. Inland, visitors can explore historic sites such as the ancient city of Aksum, the ruins of Qohaito, and the Dahlak Archipelago, known for its pristine beaches and crystal-clear waters. Eritrea's rich cultural heritage is celebrated in its festivals, music, and traditional cuisine, making it a fascinating destination for travelers interested in history and culture.`,
     popu: `Over 38 million`
   },
   {
     name: "Estonia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Tallinn",
     info: `Estonia: Known for its digital innovation, medieval old towns, and Baltic coastlines, Estonia captivates visitors with its blend of modernity and historical charm.`,
     popu: `Over 38 million`
   },
   {
     name: 'Eswatini (fmr. "Swaziland")',
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Mbabane",
     info: `Eswatini, a landlocked country in Southern Africa, is known for its stunning landscapes, rich culture, and wildlife reserves. Despite being one of the smallest countries in Africa, Eswatini offers diverse attractions, including the Hlane Royal National Park, known for its populations of rhinos and elephants, and the Mlilwane Wildlife Sanctuary, where visitors can spot hippos, crocodiles, and a variety of bird species. The country's cultural heritage is celebrated in events such as the Umhlanga Reed Dance and the Incwala Ceremony, which showcase traditional music, dance, and ceremonies. Eswatini also boasts scenic mountain ranges, such as the Malolotja Nature Reserve and the Lubombo Mountains, which offer opportunities for hiking, mountain biking, and birdwatching.`,
     popu: `Over 38 million`
   },
   {
     name: "Ethiopia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Addis Ababa",
     info: `Ethiopia, located in the Horn of Africa, is known for its ancient history, diverse cultures, and stunning landscapes. The country is home to numerous UNESCO World Heritage sites, including the rock-hewn churches of Lalibela, the ancient obelisks of Aksum, and the medieval castles of Gondar. Ethiopia's natural beauty is evident in its diverse ecosystems, from the rugged Simien Mountains to the Danakil Depression, one of the hottest and lowest places on Earth. Visitors to Ethiopia can also explore the colorful markets of Addis Ababa, sample traditional Ethiopian cuisine such as injera and wat, and experience the rich traditions of the country's many ethnic groups. Additionally, Ethiopia is known for its coffee culture, with opportunities to visit coffee plantations and learn about the country's coffee-growing heritage.`,
     popu: `Over 38 million`
   },
   {
     name: "Fiji",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Suva",
     info: `Fiji is an archipelago of more than 300 islands located in the South Pacific Ocean, known for its stunning beaches, crystal-clear waters, and vibrant coral reefs. The country's main islands, Viti Levu and Vanua Levu, offer a mix of lush rainforests, rugged mountains, and bustling towns. Visitors to Fiji can explore the traditional Fijian culture through activities such as village visits, kava ceremonies, and meke dance performances. The islands are also a paradise for outdoor enthusiasts, with opportunities for snorkeling, scuba diving, surfing, and hiking. Highlights of Fiji include the Mamanuca and Yasawa island chains, the Coral Coast, and the Garden of the Sleeping Giant. Fiji's warm hospitality, stunning landscapes, and rich marine biodiversity make it a popular destination for travelers seeking relaxation and adventure in a tropical paradise.`,
     popu: `Over 38 million`
   },
   {
     name: "Finland",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Helsinki",
     info: `Finland: With its pristine nature, modern design, and northern lights, Finland offers visitors opportunities for wilderness adventures, sauna culture, and exploring cities like Helsinki and Rovaniemi.`,
     popu: `Over 38 million`
   },
   {
     name: "France",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Paris",
     info: `France: Renowned for its rich history, art, cuisine, and romantic ambiance, France attracts millions of visitors each year to explore attractions such as the Eiffel Tower, Louvre Museum, and French Riviera.`,
     popu: `Over 38 million`
   },
   {
     name: "Gabon",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Libreville",
     info: `Gabon: Gabon is a Central African country known for its dense rainforests, diverse wildlife, and pristine coastline. Attractions include Loango National Park, Ivindo National Park, and the bustling capital city of Libreville.`,
     popu: `Over 38 million`
   },
   {
     name: "Gambia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Banjul",
     info: `Gambia: The Gambia is a small West African country known for its scenic river, diverse birdlife, and vibrant culture. Highlights include the UNESCO-listed Stone Circles of Senegambia, the River Gambia National Park, and the beach resorts of Bakau and Kololi.`,
     popu: `Over 38 million`
   },
   {
     name: "Georgia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Tbilisi",
     info: `Georgia: Georgia is a country located at the crossroads of Europe and Asia known for its stunning mountain scenery, ancient monasteries, and rich wine culture. Attractions include the historic city of Tbilisi, the cave town of Vardzia, and the vineyards of Kakheti.`,
     popu: `Over 38 million`
   },
   {
     name: "Germany",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Berlin",
     info: `Germany: With its fascinating history, diverse landscapes, and vibrant cities, Germany appeals to travelers with its cultural festivals, medieval towns, scenic countryside, and renowned beer culture.`,
     popu: `Over 38 million`
   },
   {
     name: "Ghana",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Accra",
     info: `Ghana: With its vibrant culture, historic forts, and scenic coastline, Ghana offers travelers opportunities for cultural immersion, heritage tourism, and beach relaxation.`,
     popu: `Over 38 million`
   },
   {
     name: "Greece",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Athens",
     info: `Greece: Famed for its ancient ruins, stunning islands, and Mediterranean cuisine, Greece beckons visitors with its picturesque landscapes, historic landmarks, and idyllic beaches.`,
     popu: `Over 38 million`
   },
   {
     name: "Grenada",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "St. George's",
     info: `Grenada: Grenada is a Caribbean island nation known for its stunning beaches, lush rainforests, and spice plantations. Attractions include Grand Anse Beach, the underwater sculpture park, and the historic capital city of St. George's.`,
     popu: `Over 38 million`
   },
   {
     name: "Guatemala",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Guatemala City",
     info: `Guatemala: Guatemala is a Central American country known for its Mayan ruins, colonial architecture, and natural beauty. Highlights include the ancient city of Tikal, Lake Atitlán, and the colorful markets of Chichicastenango.`,
     popu: `Over 38 million`
   },
   {
     name: "Guinea",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Conakry",
     info: `Guinea: Guinea is a West African country known for its diverse landscapes, including savannas, mountains, and rainforests. Attractions include Mount Nimba Strict Nature Reserve, the Fouta Djallon highlands, and the vibrant capital city of Conakry.`,
     popu: `Over 38 million`
   },
   {
     name: "Guinea-Bissau",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Bissau",
     info: `Guinea-Bissau: Guinea-Bissau is a West African country known for its tropical coastline, mangrove forests, and diverse wildlife. Highlights include the Bijagós Archipelago, Bissau's historic center, and the Cacheu River Natural Park.`,
     popu: `Over 38 million`
   },
   {
     name: "Guyana",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Georgetown",
     info: `Guyana: Guyana is a South American country known for its vast rainforests, savannas, and diverse wildlife. Attractions include Kaieteur Falls, the Iwokrama Forest Reserve, and the capital city of Georgetown.`,
     popu: `Over 38 million`
   },
   {
     name: "Haiti",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Port-au-Prince",
     info: `Haiti: Haiti is a Caribbean country known for its vibrant culture, historic landmarks, and scenic landscapes. Highlights include the Citadelle Laferrière, the historic district of Jacmel, and the beaches of Île-à-Vache.`,
     popu: `Over 38 million`
   },
   {
     name: "Holy See",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Vatican City",
     info: `Holy See: The Holy See, also known as Vatican City, is an independent city-state and the spiritual center of the Roman Catholic Church. Highlights include St. Peter's Basilica, the Vatican Museums, and the Sistine Chapel.`,
     popu: `Over 38 million`
   },
   {
     name: "Honduras",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Tegucigalpa",
     info: `Honduras: Honduras is a Central American country known for its Mayan ruins, pristine beaches, and diverse ecosystems. Attractions include the Copán archaeological site, the Bay Islands, and the Cusuco National Park.`,
     popu: `Over 38 million`
   },
   {
     name: "Hungary",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Budapest",
     info: `Hungary: Famed for its thermal baths, Baroque architecture, and rich cultural heritage, Hungary entices visitors with attractions such as Budapest's Parliament, Buda Castle, and the Danube River.`,
     popu: `Over 38 million`
   },
   {
     name: "Iceland",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Reykjavik",
     info: `Iceland: Known for its dramatic landscapes, geothermal wonders, and vibrant culture, Iceland captivates visitors with attractions such as the Blue Lagoon, Golden Circle route, and the magical Northern Lights.`,
     popu: `Over 38 million`
   },
   {
     name: "India",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "New Delhi",
     info: `India: With its vibrant colors, diverse cultures, and rich heritage, India offers travelers an immersive experience through its bustling cities, majestic temples, and scenic landscapes such as the Taj Mahal.`,
     popu: `Over 38 million`
   },
   {
     name: "Indonesia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Jakarta",
     info: `Indonesia: Comprising thousands of islands, Indonesia boasts tropical beaches, lush rainforests, and cultural diversity, making it a popular destination for beach lovers, adventure seekers, and cultural enthusiasts alike.`,
     popu: `Over 38 million`
   },
   {
     name: "Iran",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Tehran",
     info: `Iran: With its ancient history, stunning mosques, and Persian hospitality, Iran offers travelers a unique blend of cultural treasures, culinary delights, and breathtaking landscapes.`,
     popu: `Over 38 million`
   },
   {
     name: "Iraq",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Baghdad",
     info: `Iraq: Iraq is a Middle Eastern country known for its historic sites, including the ancient city of Babylon and the ruins of Nineveh. Attractions include the Ziggurat of Ur, the Marshlands of Mesopotamia, and the Kurdistan Region.`,
     popu: `Over 38 million`
   },
   {
     name: "Ireland",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Dublin",
     info: `Ireland: Famed for its lush green countryside, historic castles, and lively pub culture, Ireland offers travelers opportunities to explore Dublin's literary heritage, the Cliffs of Moher, and the scenic Ring of Kerry.`,
     popu: `Over 38 million`
   },
   {
     name: "Israel",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Jerusalem",
     info: `Israel: Israel is a Middle Eastern country known for its religious significance, historic sites, and diverse landscapes. Attractions include Jerusalem's Old City, the Dead Sea, Masada, and the ancient city of Petra.`,
     popu: `Over 38 million`
   },
   {
     name: "Italy",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Rome",
     info: `Italy: Famous for its ancient ruins, Renaissance art, picturesque landscapes, and delicious cuisine, Italy is a favorite destination for travelers seeking history, culture, and gastronomic experiences.`,
     popu: `Over 38 million`
   },
   {
     name: "Jamaica",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Kingston",
     info: `Jamaica: Jamaica is a Caribbean island nation known for its vibrant culture, stunning beaches, and reggae music. Attractions include Dunn's River Falls, the Blue Mountains, and the Bob Marley Museum in Kingston.`,
     popu: `Over 38 million`
   },
   {
     name: "Japan",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Tokyo",
     info: `Japan: Known for its blend of ancient traditions and cutting-edge technology, Japan offers visitors a unique cultural experience, from historic temples and gardens to futuristic cities and culinary delights.`,
     popu: `Over 38 million`
   },
   {
     name: "Jordan",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Amman",
     info: `Jordan: Jordan is a Middle Eastern country known for its ancient ruins, desert landscapes, and warm hospitality. Attractions include Petra, the Dead Sea, Wadi Rum desert, and the ancient city of Jerash.`,
     popu: `Over 38 million`
   },
   {
     name: "Kazakhstan",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Nur-Sultan",
     info: `Kazakhstan: Kazakhstan is a Central Asian country known for its vast steppes, rugged mountains, and modern cities. Highlights include the Charyn Canyon, Lake Kaindy, and the futuristic capital city of Nur-Sultan (formerly Astana).`,
     popu: `Over 38 million`
   },
   {
     name: "Kenya",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Nairobi",
     info: `Kenya: Known for its diverse wildlife, Maasai culture, and scenic landscapes such as the Masai Mara and Mount Kenya, Kenya is a top safari destination in Africa. She is an East African country known for its diverse wildlife, stunning landscapes, and vibrant culture. Attractions include the Maasai Mara National Reserve, Amboseli National Park, and the Great Rift Valley.`,
     popu: `Over 38 million`
   },
   {
     name: "Kiribati",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "South Tarawa",
     info: `Kiribati: Kiribati is a Pacific island nation known for its pristine beaches, coral atolls, and rich marine life. Highlights include Christmas Island, Tarawa Atoll, and the Phoenix Islands Protected Area.`,
     popu: `Over 38 million`
   },
   {
     name: "Kuwait",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Kuwait City",
     info: `Kuwait: Kuwait is a small Middle Eastern country known for its modern architecture, oil reserves, and rich cultural heritage. Attractions include the Kuwait Towers, the Grand Mosque, and the Souq Al-Mubarakiya.`,
     popu: `Over 38 million`
   },
   {
     name: "Kyrgyzstan",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Bishkek",
     info: `Kyrgyzstan is a Central Asian country known for its stunning mountain landscapes, nomadic culture, and historic Silk Road sites. Attractions include the breathtaking Issyk-Kul Lake, the mountainous landscapes of Ala Archa National Park, and the ancient city of Osh with its bustling bazaars and sacred Sulaiman-Too Mountain. Visitors can also experience traditional yurt stays, horseback riding excursions, and cultural festivals celebrating Kyrgyz heritage.`,
     popu: `Over 38 million`
   },
   {
     name: "Laos",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Vientiane",
     info: `Laos: With its tranquil Buddhist temples, lush landscapes, and Mekong River scenery, Laos offers travelers a serene and spiritual escape in Southeast Asia. A Southeast Asian country known for its mountainous landscapes, Buddhist temples, and traditional way of life. Highlights include the ancient city of Luang Prabang, the Plain of Jars, and the Kuang Si Falls.`,
     popu: `Over 38 million`
   },
   {
     name: "Latvia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Riga",
     info: `Latvia: Latvia is a Baltic country known for its historic cities, stunning coastline, and dense forests. Attractions include Riga's Old Town, the Gauja National Park, and the beaches of Jurmala.`,
     popu: `Over 38 million`
   },
   {
     name: "Lebanon",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Beirut",
     info: `Lebanon: Lebanon is a Middle Eastern country known for its ancient ruins, vibrant cities, and Mediterranean cuisine. Highlights include the ancient city of Byblos, the ruins of Baalbek, and the nightlife of Beirut.`,
     popu: `Over 38 million`
   },
   {
     name: "Lesotho",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Maseru",
     info: `Lesotho: Lesotho is a landlocked country in Southern Africa known for its mountainous landscapes, traditional culture, and outdoor adventures. Attractions include the Drakensberg Mountains, Sani Pass, and the Maletsunyane Falls.`,
     popu: `Over 38 million`
   },
   {
     name: "Liberia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Monrovia",
     info: `Liberia: Liberia is a West African country known for its rainforests, beaches, and cultural diversity. Highlights include the Sapo National Park, the Firestone Rubber Plantation, and the historic city of Monrovia.`,
     popu: `Over 38 million`
   },
   {
     name: "Libya",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Tripoli",
     info: `Libya: Libya is a North African country known for its ancient ruins, desert landscapes, and Mediterranean coastline. Attractions include the ancient city of Leptis Magna, the Sahara Desert, and the Roman ruins of Sabratha.`,
     popu: `Over 38 million`
   },
   {
     name: "Liechtenstein",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Vaduz",
     info: `Liechtenstein: Liechtenstein is a tiny landlocked country in Central Europe known for its alpine scenery, historic castles, and low taxes. Attractions include Vaduz Castle, the Malbun ski resort, and the Liechtenstein National Museum.`,
     popu: `Over 38 million`
   },
   {
     name: "Lithuania",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Vilnius",
     info: `Lithuania: Lithuania is a Baltic country known for its historic cities, scenic landscapes, and cultural heritage. Highlights include Vilnius' Old Town, the Curonian Spit, and the Hill of Crosses.`,
     popu: `Over 38 million`
   },
   {
     name: "Luxembourg",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Luxembourg City",
     info: `Luxembourg: Luxembourg is a small European country known for its medieval castles, picturesque villages, and vibrant cultural scene. Attractions include Luxembourg City's Old Town, Vianden Castle, and the Mullerthal region.`,
     popu: `Over 38 million`
   },
   {
     name: "Madagascar",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Antananarivo",
     info: `Madagascar: Madagascar is an island nation located off the southeast coast of Africa known for its unique wildlife, lush rainforests, and stunning landscapes. Highlights include the Avenue of the Baobabs, the rainforests of Masoala National Park, and the lemurs of Andasibe-Mantadia National Park.`,
     popu: `Over 38 million`
   },
   {
     name: "Malawi",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Lilongwe",
     info: `Malawi: Malawi is a landlocked country in southeastern Africa known for its scenic landscapes, including Lake Malawi, the third-largest lake in Africa. Attractions include Liwonde National Park, Mount Mulanje, and the historic city of Zomba.`,
     popu: `Over 38 million`
   },
   {
     name: "Malaysia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Kuala Lumpur",
     info: `Malaysia: Home to bustling cities, tropical rainforests, and multicultural heritage, Malaysia entices visitors with attractions such as Kuala Lumpur's Petronas Towers, Penang's street food, and Borneo's wildlife.`,
     popu: `Over 38 million`
   },
   {
     name: "Maldives",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Malé",
     info: `Maldives: The Maldives is a tropical archipelago in the Indian Ocean known for its luxury resorts, crystal-clear waters, and vibrant coral reefs. Attractions include underwater restaurants, overwater bungalows, and world-class diving and snorkeling sites.`,
     popu: `Over 38 million`
   },
   {
     name: "Mali",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Bamako",
     info: `Mali: Mali is a landlocked country in West Africa known for its historic cities, ancient mosques, and rich cultural heritage. Highlights include the UNESCO-listed city of Timbuktu, the Dogon Country, and the Great Mosque of Djenné.`,
     popu: `Over 38 million`
   },
   {
     name: "Malta",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Valletta",
     info: `Malta: Malta is a small island nation in the Mediterranean known for its historic sites, stunning beaches, and clear blue waters. Attractions include the ancient city of Valletta, the megalithic temples of Ħaġar Qim and Mnajdra, and the Blue Lagoon on the island of Comino.`,
     popu: `Over 38 million`
   },
   {
     name: "Marshall Islands",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Majuro",
     info: `Marshall Islands: The Marshall Islands is a Micronesian country in the Pacific Ocean known for its pristine beaches, coral atolls, and World War II history. Highlights include the Bikini Atoll, the underwater wrecks of Kwajalein Atoll, and traditional Marshallese culture.`,
     popu: `Over 38 million`
   },
   {
     name: "Mauritania",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Nouakchott",
     info: `Mauritania: Mauritania is a West African country known for its vast desert landscapes, ancient caravan routes, and rich nomadic culture. Attractions include the Banc d'Arguin National Park, the ancient city of Chinguetti, and the Iron Ore Train.`,
     popu: `Over 38 million`
   },
   {
     name: "Mauritius",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Port Louis",
     info: `Mauritius: Mauritius is an island nation in the Indian Ocean known for its stunning beaches, lush rainforests, and diverse marine life. Highlights include Black River Gorges National Park, Chamarel's Seven Colored Earths, and the vibrant capital city of Port Louis.`,
     popu: `Over 38 million`
   },
   {
     name: "Mexico",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Mexico City",
     info: `Mexico: Known for its vibrant culture, ancient civilizations, and delicious cuisine, Mexico attracts visitors with its archaeological sites, colonial cities, and pristine beaches along the Caribbean and Pacific coasts.`,
     popu: `Over 38 million`
   },
   {
     name: "Micronesia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Palikir",
     info: `Micronesia: Micronesia is a region of Oceania comprising thousands of small islands in the western Pacific Ocean. The Federated States of Micronesia is one of the countries within this region, known for its beautiful coral reefs, traditional culture, and World War II relics.`,
     popu: `Over 38 million`
   },
   {
     name: "Moldova",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Chișinău",
     info: `Moldova: Moldova is a landlocked country in Eastern Europe known for its scenic vineyards, historic monasteries, and cultural traditions. Attractions include the Milestii Mici wine cellars, Orheiul Vechi monastery complex, and the capital city of Chișinău.`,
     popu: `Over 38 million`
   },
   {
     name: "Monaco",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Monaco",
     info: `Monaco is a small sovereign city-state located on the French Riviera in Western Europe. Known for its glamorous reputation, Monaco is famous for its luxurious casinos, prestigious yacht-filled harbor, and Formula One Grand Prix motor race. Despite its small size, Monaco boasts several cultural attractions, including the opulent Monte Carlo Casino, the Prince's Palace of Monaco, and the Oceanographic Museum. Visitors can also explore the picturesque streets of Monaco-Ville, the historic old town perched on a rocky promontory overlooking the Mediterranean Sea. With its sunny climate, stunning scenery, and high-end shopping and dining options, Monaco is a playground for the rich and famous and a popular destination for luxury travelers from around the world.
   `,
@@ -804,84 +804,84 @@ const data = [
   },
   {
     name: "Mongolia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Ulaanbaatar",
     info: `Mongolia: Known for its vast steppes, nomadic culture, and Gobi Desert landscapes, Mongolia offers travelers opportunities for horseback riding, eagle hunting, and exploring ancient traditions.`,
     popu: `Over 38 million`
   },
   {
     name: "Montenegro",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Podgorica",
     info: `Montenegro: Montenegro is a Balkan country known for its stunning Adriatic coastline, rugged mountains, and medieval towns. Highlights include the Bay of Kotor, Durmitor National Park, and the old town of Kotor.`,
     popu: `Over 38 million`
   },
   {
     name: "Morocco",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Rabat",
     info: `Morocco: Bridging Africa and Europe, Morocco entices travelers with its exotic markets, medieval medinas, and Sahara Desert adventures, as well as historic cities like Marrakech, Fes, and Casablanca.`,
     popu: `Over 38 million`
   },
   {
     name: "Mozambique",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Maputo",
     info: `Mozambique: Mozambique is a country located in Southeast Africa known for its stunning coastline, diverse wildlife, and rich cultural heritage. Highlights include the Bazaruto Archipelago, Gorongosa National Park, and the historic island of Mozambique.`,
     popu: `Over 38 million`
   },
   {
     name: "Myanmar (formerly Burma)",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Naypyidaw",
     info: `Myanmar (formerly Burma): Myanmar is a Southeast Asian country known for its ancient temples, diverse ethnic cultures, and lush landscapes. Attractions include the temples of Bagan, the floating gardens of Inle Lake, and the historic city of Mandalay.`,
     popu: `Over 38 million`
   },
   {
     name: "Namibia",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Windhoek",
     popu: `Over 38 million`,
     info: `Namibia: Famed for its otherworldly landscapes, including the Namib Desert and Fish River Canyon, Namibia offers travelers opportunities for desert safaris, star gazing, and adventure activities. It is a Southern African country known for its dramatic desert landscapes, wildlife reserves, and indigenous cultures. Highlights include the Namib Desert, Etosha National Park, and the coastal town of Swakopmund.`,
   },
   {
     name: "Nauru",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Yaren",
     popu: `Over 38 million`,
     info: `Nauru: Nauru is a small island nation in the Pacific Ocean known for its phosphate mining industry and stunning coral reefs. Despite its small size, Nauru offers opportunities for diving, snorkeling, and birdwatching.`,
   },
   {
     name: "Nepal",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Kathmandu",
     popu: `Over 38 million`,
     info: `Nepal: Home to the world's highest peaks, including Mount Everest, Nepal captivates visitors with its Himalayan trekking routes, ancient temples, and rich cultural heritage.`,
   },
   {
     name: "Netherlands",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Amsterdam",
     popu: `Over 38 million`,
     info: `Netherlands: Famous for its picturesque canals, historic windmills, and vibrant tulip fields, the Netherlands captivates travelers with its charming cities, cultural heritage, and cycling-friendly landscapes.`,
   },
   {
     name: "New Zealand",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Wellington",
     popu: `Over 38 million`,
     info: `New Zealand: New Zealand is an island country in the southwestern Pacific Ocean known for its stunning landscapes, including mountains, fjords, and beaches. Highlights include Milford Sound, the Tongariro Alpine Crossing, and the cities of Auckland and Wellington.`,
   },
   {
     name: "Nicaragua",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Managua",
     popu: `Over 38 million`,
     info: `Nicaragua is a Central American country known for its diverse landscapes, including volcanoes, lakes, and beaches. The country offers a mix of natural beauty and cultural heritage, with attractions such as the colonial city of Granada, the volcanic island of Ometepe, and the surf town of San Juan del Sur. Nicaragua is also home to several nature reserves and national parks, including the UNESCO-listed Biosphere Reserve of Bosawás and the cloud forests of Miraflor. Visitors can enjoy outdoor activities such as hiking, wildlife spotting, and exploring indigenous communities.`,
   },
   {
     name: "Niger",
-    img: `https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.istockphoto.com%2Fphoto%2Ffull-frame-image-of-afghanistan-flag-gm479206726-67814089&psig=AOvVaw09N2NCH5ETrIyvEziv3QrV&ust=1708587708640000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLjN_673u4QDFQAAAAAdAAAAABAE`,
+    img: ` `,
     Category: "Niamey",
     popu: `Over 38 million`,
     info: `Niger is a landlocked country located in West Africa, bordered by Algeria, Libya, Chad, Nigeria, Benin, Burkina Faso, Mali, and Niger. The country is known for its vast desert landscapes, including the Sahara Desert, which covers much of its territory. Niger is home to diverse ethnic groups, including the Hausa, Tuareg, Fulani, and Zarma-Songhai people. The capital city, Niamey, sits on the banks of the Niger River and is known for its vibrant markets, mosques, and cultural festivals. Attractions in Niger include the ancient city of Agadez, the W National Park, and the historic Sultanate of Damagaram.`,
