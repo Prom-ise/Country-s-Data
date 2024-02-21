@@ -1,6 +1,7 @@
 .body{
     background-color: black;
     padding: 30px;
+    overflow: hidden;
 }
 .we{
     color: red;
@@ -58,7 +59,8 @@ input:focus {
     background-color: black;
     border: 2px double red;
     overflow-y: auto;
-    max-height: 470px;
+    max-height: 480px;
+    padding-top: 15px;
 }
 @media (max-width: 759px) {
     .scrollable-container{
