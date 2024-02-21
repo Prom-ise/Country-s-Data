@@ -64,7 +64,19 @@ input:focus {
 }
 @media (max-width: 759px) {
     .scrollable-container{
-        width: 400px;
+        width: 345px;
+    }
+    .search{
+        width: 345px;
+    }
+    .input{
+        width: 345px;
+    }
+   
+}
+@media (max-width: 1200px){
+    .category1{
+        display: block;
     }
 }
 /* .ico{
