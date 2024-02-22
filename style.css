@@ -62,14 +62,31 @@ input:focus {
     padding-top: 15px;
 }
 @media (max-width: 759px) {
+    .we{
+        font-size: 20px;
+    }
+    .contain{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
     .scrollable-container{
-        width: 345px;
+        width: 435px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .search{
-        width: 345px;
+        width: 310px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
     .input{
-        width: 345px;
+        width: 335px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
     }
    
 }
