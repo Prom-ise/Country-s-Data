@@ -60,6 +60,26 @@ input:focus {
     overflow-y: auto;
     max-height: 480px;
     padding-top: 15px;
+    transition: 1.5s ease-in-out;
+}
+.cancel{
+    border: none;
+    background-color: red;
+    border-radius: 50%;
+    padding: 5px;
+    color: white;
+    font-weight: 600;
+    height: 60px;
+    cursor: pointer;
+}
+.carousel-inner{
+    border: 3px dashed  red;
+}
+.did{
+    color: red;
+}
+.bra{
+    backdrop-filter: blur(20px);
 }
 @media (max-width: 759px) {
     .we{
@@ -87,6 +107,9 @@ input:focus {
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    .carousel-caption{
+        font-size: 10px;
     }
    
 }
